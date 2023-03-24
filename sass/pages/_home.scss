@@ -13,4 +13,13 @@
   ),
   url(../img/nat-4.jpg);
   background-size: cover;
+  transform: skewY(-7deg);
+  margin-top: -10rem;
+
+  // affects all direct children of the section.  
+  // This removes the skew from the cards in the skewed section.
+  & > * {
+    transform: skewY(7deg);
+  }
+
 }
