@@ -6,13 +6,13 @@
 
   Screenshots:
 
-  ![screenshot1](/screenshot1.png)
-  ![screenshot2](/screenshot2.png)
-  ![screenshot3](/screenshot3.png)
-  ![screenshot4](/screenshot4.png)
-  ![screenshot5](/screenshot5.png)
-  ![screenshot6](/screenshot6.png)
-  ![screenshot7](/screenshot7.png)
+  ![screenshot1](/img/screenshot1.png)
+  ![screenshot2](/img/screenshot2.png)
+  ![screenshot3](/img/screenshot3.png)
+  ![screenshot4](/img/screenshot4.png)
+  ![screenshot5](/img/screenshot5.png)
+  ![screenshot6](/img/screenshot6.png)
+  ![screenshot7](/img/screenshot7.png)
   
   ## Table of Contents
   
@@ -25,11 +25,11 @@
   
   ## Installation
   
-  deployed URL: 
+  deployed URL: https://billstephens2022.github.io/Natour/
   
   ## Usage
   
-  N/A
+  deployed URL: https://billstephens2022.github.io/Natour/
 
   ## License
 This application is covered under the MIT License.
