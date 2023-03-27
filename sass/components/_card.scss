@@ -155,8 +155,10 @@
     font-weight: 100;
   }
 
-  @include respond(tab-port) {
+  // @include respond(tab-port) {
     // FUNCTIONALITY
+  @media only screen and (max-width: 56.25em),
+         only screen and (hover: none) {  //the 'hover:none' identifies touch screen devices (i.e. where you can't hover).
     height: auto;
     border-radius: 3px;
     background-color: $color-white;

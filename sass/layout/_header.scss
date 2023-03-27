@@ -17,9 +17,9 @@
       height: 95vh;
     }
 
-    @media (min-resolution: 192dpi) and (min-width: 37.5em), 
-           (-webkit-min-device-pixel-ratio: 2) and (min-width: 37.5em),
-           (min-width: 125em) {  // 'and' used for both conditions to be true.  the 'comma' is equiuvalent to an 'or' operator.
+    @media only screen and (min-resolution: 192dpi) and (min-width: 37.5em), 
+           only screen and (-webkit-min-device-pixel-ratio: 2) and (min-width: 37.5em),
+           only screen and (min-width: 125em) {  // 'and' used for both conditions to be true.  the 'comma' is equiuvalent to an 'or' operator.
       background-image: linear-gradient(
         to right bottom,
         rgba($color-primary-light, 0.8),
